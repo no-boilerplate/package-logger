@@ -1,0 +1,45 @@
+{
+  "name": "package-logger",
+  "version": "1.0.0",
+  "description": "Emits package's log events instead of logging them directly",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/no-boilerplate/package-logger.git"
+  },
+  "keywords": [
+    "package",
+		"module",
+		"log",
+		"logging",
+		"event",
+		"emit"
+  ],
+  "authors": [
+    {
+      "name": "Ivan Erceg",
+      "url": "https://github.com/ierceg",
+      "title": "Software Shipper",
+      "username": "ierceg",
+      "twitter": "ierceg"
+    },
+    {
+      "name": "Nebojsa Lazic",
+      "url": "https://github.com/neboysa",
+      "title": "Master of Disaster",
+      "username": "neboysa",
+      "twitter": "2klik"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/no-boilerplate/package-logger/issues"
+  },
+  "homepage": "https://github.com/no-boilerplate/package-logger#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
